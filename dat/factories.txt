@@ -1,0 +1,8 @@
+1
+Pan pek
+1
+13,8,2,5
+2
+Tvornica laptopa
+2
+14,1,11,6,3

@@ -1,0 +1,108 @@
+1
+Asus laptop
+2
+30
+40
+25
+500
+899
+1
+24
+2
+Maestro pizza
+1
+25
+3
+25
+8
+10
+2
+325
+3
+Predator laptop
+2
+30
+42
+25
+50
+795
+1
+12
+5
+Delikates sendvič
+1
+5
+6
+13
+5
+8
+2
+269
+6
+HP laptop
+2
+31
+40
+22
+625
+1052
+1
+48
+8
+Capricciosa pizza
+1
+30
+4
+30
+10
+12
+2
+327
+9
+Knjiga s receptima
+3
+10
+25
+7
+5
+17
+2
+10
+Knjiga s pjesmama
+3
+11
+20
+5
+9
+22
+2
+11
+Lenovo laptop
+2
+30
+39
+20
+390
+669
+1
+12
+13
+Veliki sendvič
+1
+7
+7
+20
+8
+11
+2
+301
+14
+Huawei laptop
+2
+30
+41
+31
+250
+320
+1
+12
